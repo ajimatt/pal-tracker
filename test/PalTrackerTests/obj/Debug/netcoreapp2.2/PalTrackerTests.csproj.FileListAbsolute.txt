@@ -1,0 +1,4 @@
+C:\Users\IMGADMIN\workspace\pal-tracker\test\PalTrackerTests\obj\Debug\netcoreapp2.2\PalTrackerTests.csprojAssemblyReference.cache
+C:\Users\IMGADMIN\workspace\pal-tracker\test\PalTrackerTests\obj\Debug\netcoreapp2.2\PalTrackerTests.csproj.CoreCompileInputs.cache
+C:\Users\IMGADMIN\workspace\pal-tracker\test\PalTrackerTests\obj\Debug\netcoreapp2.2\PalTrackerTests.AssemblyInfoInputs.cache
+C:\Users\IMGADMIN\workspace\pal-tracker\test\PalTrackerTests\obj\Debug\netcoreapp2.2\PalTrackerTests.AssemblyInfo.cs
