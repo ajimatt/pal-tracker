@@ -10,6 +10,7 @@ namespace PalTrackerTests
     public class TimeEntryControllerTest
     {
         private readonly TimeEntryController _controller;
+       
         private readonly Mock<ITimeEntryRepository> _repository;
 
         public TimeEntryControllerTest()
